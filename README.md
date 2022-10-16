@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Farheen-cell.github.io
 
- <img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
+
+ 
 <h1 align="center">Hi 👋, I'm Farheen</h1>
 <h3 align="center">A passionate "Java Backend Developer" from India</h3>
+<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen-cell&label=Profile%20views&color=0e75b6&style=flat" alt="farheen-cell" /> </p>
 
 - 🌱 I’m currently learning **Java and Sql**
 
-- 💬 Ask me about **JAVA HTML | CSS JAVASCRIPT | SQL | Hibernate | Sprint | Boot | L4 Mobile repairing**
+- 💬 Ask me about **JAVA HTML | CSS JAVASCRIPT | SQL | Hibernate | Sprint | Boot | L4 Mobile repairing|C**
 
 - 📫 How to reach me **farheen.ali108@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing](https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing)
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing](https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing)">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
