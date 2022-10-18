@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
  
 <h1 align="center">Hi 👋, I'm Farheen</h1>
-<h3 align="center">A passionate "Java Backend Developer" from India</h3>
+<h2 align="center">A passionate "Java Backend Developer" from India</h2>
+<h3 align="center">Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</h>
 <img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen-cell&label=Profile%20views&color=0e75b6&style=flat" alt="farheen-cell" /> </p>
