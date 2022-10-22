@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350" margin-top="20"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen-cell&label=Profile%20views&color=0e75b6&style=flat" alt="farheen-cell" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farheen-cell" alt="bhatteryash" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Sql**
 
