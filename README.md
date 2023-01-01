@@ -1,12 +1,5 @@
 
-<head>
-  
-    <style>
-        #cont{
-            margin-left: 25px;
-        }
-    </style>
-</head>
+
 <body>
     
 
