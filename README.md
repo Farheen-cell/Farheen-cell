@@ -7,15 +7,14 @@
  
 <h1 align="center">Hi 👋, I'm Farheen</h1>
 <h2 align="center">A passionate "Java Backend Developer" from India</h2>
-<p align="center">Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p>
-<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350" margin-top="20"/>
+<p align="center">👋 Hello, fellow developers! I am a passionate and results-driven Computer Science graduate, specializing in Java backend development. With over 1000 hours of deliberate practice, I bring a robust skill set to the table. My professional journey includes valuable experience as a Software Engineer Intern at Omniful, where I seamlessly integrated sales channel services like Shopify, WooCommerce, Amazon, Zid, Salla, and ToYou. Adept at implementing efficient inter-service communication using technologies such as SQS and Kafka, with a focus on Golang, I thrive in creating scalable and innovative solutions. Excited to contribute to the world of Java backend development and explore new horizons! 💻✨</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen-cell&label=Profile%20views&color=0e75b6&style=flat" alt="farheen-cell" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farheen-cell" alt="bhatteryash" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Sql**
+- 🌱 I’m currently exploring **Java microservices**
 
-- 💬 Ask me about **JAVA HTML | CSS JAVASCRIPT | SQL | Hibernate | Sprint | Boot | L4 Mobile repairing|C**
+- 💬 Ask me about **JAVA | HTML | CSS | JAVASCRIPT | SQL | Hibernate | SprintBoot |Kafka | OAuth2.0| JWT | SQS | L4 Mobile repairing|C**
 
 - 📫 How to reach me **farheen.ali108@gmail.com**
 
