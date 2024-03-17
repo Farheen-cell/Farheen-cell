@@ -18,8 +18,9 @@
 
 - 📫 How to reach me **farheen.ali108@gmail.com**
 
-- 📄 Know about my experiences <a href="[![My Resume](https://img.shields.io/badge/My%20Resume-View%20Here-blue)](https://drive.google.com/open?id=1kYCW9-9OgAsbrhethiK6y5zVZy6EYvVH)
-">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/open?id=1kYCW9-9OgAsbrhethiK6y5zVZy6EYvVH" target="_blank">My Resume</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
