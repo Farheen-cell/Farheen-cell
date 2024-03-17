@@ -7,7 +7,7 @@
  
 <h1 align="center">Hi 👋, I'm Farheen</h1>
 <h2 align="center">A passionate "Java Backend Developer" from India</h2>
-<p align="center">👋 Hello, fellow developers! I am a passionate and results-driven Computer Science graduate, specializing in Java backend development. With over 1000 hours of deliberate practice, I bring a robust skill set to the table. My professional journey includes valuable experience as a Software Engineer Intern at Omniful, where I seamlessly integrated sales channel services like Shopify, WooCommerce, Amazon, Zid, Salla, and ToYou. Adept at implementing efficient inter-service communication using technologies such as SQS and Kafka, with a focus on Golang, I thrive in creating scalable and innovative solutions. Excited to contribute to the world of Java backend development and explore new horizons! 💻✨</p>
+<p align="center">👋 Hello, fellow developers! A passionate and results-driven Computer Science graduate, specializing in Java backend development. With over 1000 hours of deliberate practice, a robust skill set is brought to the table. Professional journey includes valuable experience as a Software Engineer Intern at Omniful, where seamlessly integrated sales channel services like Shopify, WooCommerce, Amazon, Zid, Salla, and ToYou. Adept at implementing efficient inter-service communication using technologies such as SQS and Kafka, with a focus on Golang, thriving in creating scalable and innovative solutions. Excited to contribute to the world of Java backend development and explore new horizons! 💻✨</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen-cell&label=Profile%20views&color=0e75b6&style=flat" alt="farheen-cell" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farheen-cell" alt="bhatteryash" /></a> </p>
@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **farheen.ali108@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing](https://drive.google.com/file/d/1pVOk6hTq40SjUj3PsKqeJZvFwnL-t4nj/view?usp=sharing)">My Resume</a>
+- 📄 Know about my experiences <a href="[![My Resume](https://img.shields.io/badge/My%20Resume-View%20Here-blue)](https://drive.google.com/open?id=1kYCW9-9OgAsbrhethiK6y5zVZy6EYvVH)
+">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
